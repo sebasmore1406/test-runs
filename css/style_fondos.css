@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 1%;
+}
+
+.back {
+    color: black;
+    font-family: quicksand;
+    font-weight: bold;
+    text-align: left;
+    text-decoration: none;
+    font-size: xx-large;
+}
+
+body {
+    background-image: url(https://images3.alphacoders.com/621/621682.jpg);
+    background-size: cover;
+}
+
+h1 {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #F4E033;
+    text-align: center;
+}
+
+h2 {
+    background-color: rgba(255, 218, 185, 0.4);
+    color: rgba(255, 255, 255, 0.4);
+    text-align: center;
+}
+
+.quicksand {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }

@@ -1,0 +1,22 @@
+.back {
+    color: black;
+    font-family: quicksand;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: xx-large;
+}
+
+.tupper {
+    border: 1px solid red;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 5px;
+    width: 100px;
+}
+
+.quicksand {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
